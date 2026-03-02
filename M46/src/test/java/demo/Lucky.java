@@ -1,0 +1,8 @@
+package demo;
+
+public class Lucky {
+
+	public static void main(String[] args) {
+		System.out.println("I Am Lucky");
+	}
+}
